@@ -11,4 +11,4 @@
           <li>Адрес
 </ol>
 
-![Schema](Marketplace.png)
+![Schema](Marketplace-2.png)
